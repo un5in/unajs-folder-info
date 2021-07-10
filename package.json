@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "description": "demo of trishul cli",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un5in/unajs-folder-info.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": "./index.js",
   "author": "unajscom",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/un5in/unajs-folder-info/issues"
+  },
+  "homepage": "https://un5.in",
   "dependencies": {
     "chalk": "^4.1.1"
   }
