@@ -1,0 +1,15 @@
+{
+  "name": "unajs-folder-info",
+  "version": "1.0.0",
+  "description": "demo of trishul cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "author": "unajscom",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
